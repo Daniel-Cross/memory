@@ -1,0 +1,19 @@
+#Header {
+    width: 100%;
+    color: white;
+    background-color: navy;
+}
+
+#Header header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Header header a {
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
